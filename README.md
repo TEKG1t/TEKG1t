@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Mechatronics Student
+- ⚡ Robotics
+- ⚡ Automation
+- ⚡ Virtual Commissioning
+
+My interests are but are not limited to
+- 🌱 Software Development
+- 🌱 AI and Machine Learning
+- 🌱 Virtual Reality (XR)
+- 🌱 Embedded Systems/Robotics
